@@ -1,1 +1,1 @@
-# ListaDeExerciciosLogica
+# Resolução dos exercícios de Lógica
